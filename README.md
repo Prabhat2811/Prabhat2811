@@ -23,22 +23,22 @@
 <table>
   <tr>
     <td align="center" width="50">
-      <a href="[https://twitter.com/@prabhatran65842](https://x.com/PrabhatRan65842)" target="blank">
+      <a href="https://x.com/PrabhatRan65842" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="30" />
       </a>
     </td>
     <td align="center" width="50">
-      <a href="[https://linkedin.com/in/prabhat-ranjan](https://www.linkedin.com/in/prabhat-ranjan-29801422a?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank">
+      <a href="https://www.linkedin.com/in/prabhat-ranjan-29801422a" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" />
       </a>
     </td>
     <td align="center" width="50">
-      <a href="[https://fb.com/prabhat-ranjan](https://www.facebook.com/share/18fTzgy4rM/)" target="blank">
+      <a href="https://www.facebook.com/share/18fTzgy4rM/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="30" />
       </a>
     </td>
     <td align="center" width="50">
-      <a href="https://instagram.com/nick_mehta2811" target="blank">
+      <a href="https://www.instagram.com/nick_mehta2811?igsh=MTA4N2VuY25pZzlmZQ==" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" />
       </a>
     </td>
