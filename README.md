@@ -46,6 +46,7 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <table align="left">
   <tr>
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS</td>
@@ -65,13 +66,15 @@
   </tr>
 </table>
 
-<br><br><br><br><br>
+<br clear="both">
+<hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhat2811&show_icons=true&locale=en&layout=compact" alt="langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhat2811&show_icons=true&locale=en" alt="stats" />
-</p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat2811&" alt="streak" />
-</p>
+<div align="left">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhat2811&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+  
+  <p><img src="https://github-readme-stats.vercel.app/api?username=prabhat2811&show_icons=true&locale=en" alt="stats" /></p>
+  
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat2811&" alt="streak" /></p>
+</div>
